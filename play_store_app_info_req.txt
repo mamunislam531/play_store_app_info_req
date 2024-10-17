@@ -1,0 +1,44 @@
+
+
+                            Google Play App Information Request
+--------------------------------------------------------------------------------------------
+
+Does your app function differently based on a user's geolocation or language? If yes, why? *
+=> My App don't work user's location
+
+
+
+Have you uploaded all Proof of Permission for any intellectual property that appears in your app? *
+=>No third party intellectual property appears in my app
+
+Please select the statement that applies to you: *
+=> I do not have any content locked behind a login wall.
+
+
+What SDKs does your app use and why? *
+=> Flutter SDK (3.22.2):
+Provides the core framework for building the app's user interface and handling platform-specific integrations.
+Why: Flutter is essential for developing cross-platform apps with a single codebase, allowing the app to run on both Android and iOS with native performance.
+
+Dart SDK (3.4.3):
+Powers the underlying programming language used in the app (Dart).
+Why: Dart is optimized for fast development and high performance in Flutter apps, providing a strong foundation for writing efficient, maintainable code.
+
+webview_flutter: 
+This SDK allows displaying web content inside the Flutter app using a WebView widget.
+Why: It provides the core functionality for rendering web pages inside the app.
+
+connectivity_plus:
+This package checks the device's connectivity status, whether the user is online or offline.
+Why: It ensures that web content loads properly only when the device is connected to the internet.
+
+
+Explain how you ensure that any 3rd party code and SDKs used in your app comply with our policies. *
+=>Minimal Data Collection:
+No personal data is collected in the app. The SDKs used are only for essential app functionality, like loading web pages and checking network connectivity.
+
+Privacy and Policy Compliance:
+We review and confirm that all third-party SDKs are compliant with Google Play’s Developer Program policies and do not collect unnecessary or sensitive user data.
+
+Regular SDK Audits:
+SDKs are regularly reviewed to ensure compliance with privacy laws and Google Play policies. If there are updates to SDKs or privacy requirements, we promptly review and update the app to maintain compliance.
