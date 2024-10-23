@@ -1,0 +1,14 @@
+
+
+
+        Play Store App Upload Requirement
+
+
+Privacy Policy
+Icon : 512 x 512            PNG/JPEG
+Cover :  1024 x 500         PNG/JPEG
+Screenshorts : 16:9 / 9:16  PNG/JPEG 
+
+Short Description  - About Features
+Long Description   - About Features
+ 
