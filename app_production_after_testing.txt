@@ -26,12 +26,12 @@ Describe how your app provides value to users
 
 
 What changes did you make to your app based on what you learned during your closed testing?
-
 =>No, there were no issues during the closed testing app, so I didn't need to update the app
+=>> During testing, the app ran smoothly and reliably. Testers reported no issues, and the overall experience was seamless, so no changes or improvements were needed.
 
 
 How did you decide that your app is ready for production?
-
-
 => There were no problems during the closed test and the testers were very happy. So I decided that my app is ready for production
+=>> I decided the app was ready for production after conducting closed testing with friends, colleagues, and trusted users. Testers found the app smooth, stable, and easy to use, with no issues reported, confirming it is ready for release.
+
 
