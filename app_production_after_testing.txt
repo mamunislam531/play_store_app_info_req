@@ -9,18 +9,19 @@ How easy was it to recruit testers for your app?
 
 Describe the engagement you received from testers during your closed testing.
 =>When my friends and family tested my app they didn't find any issue from this app.
+=>> The testers (family, friends, myself, and others) used the app regularly during the closed testing period and reported no issues. Their overall experience was smooth, and they found the app stable and easy to use.
 
 Provide a summary of the feedback you received from the testers. Include how you gathered feedback.
 => They tested the app for 14 consecutive days. They didn't get any issues and they were very happy.
+=>> I collected feedback through direct conversations and messages with testers. They reported smooth performance, easy usability, and no issues during testing. Overall feedback was positive and confirmed the app worked as expected.
 
 Who is the intended audience of your app? 
 => who are the dealer of wood machinery products they will use this app.
 
 
 Describe how your app provides value to users
-
 => User can easily use this app and find wood machinery products which are required. This app does not save user data so user can use this app safely.
-
+=>>The app provides value by offering an easy and clear way for users to learn Dart programming. It helps them understand concepts quickly, practice effectively, and improve their coding skills with a simple, user-friendly experience.
 
 
 What changes did you make to your app based on what you learned during your closed testing?
@@ -29,5 +30,6 @@ What changes did you make to your app based on what you learned during your clos
 
 
 How did you decide that your app is ready for production?
+
 
 => There were no problems during the closed test and the testers were very happy. So I decided that my app is ready for production
