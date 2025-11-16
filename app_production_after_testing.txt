@@ -1,6 +1,7 @@
 How did you recruit users for your closed test? For example, did you ask friends and family, or use a paid testing provider?
 
 => Yes, I tested my app with my friends and family.
+=>> I tested this app with my friends, colleagues, myself, and other known people.
 
 
 How easy was it to recruit testers for your app?
@@ -33,3 +34,4 @@ How did you decide that your app is ready for production?
 
 
 => There were no problems during the closed test and the testers were very happy. So I decided that my app is ready for production
+
