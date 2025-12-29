@@ -1,3 +1,8 @@
+Contact With Play Console :
+https://docs.google.com/forms/d/e/1FAIpQLScNJOzsvWCFX_Hh1-SXJeTQnBleT0H6l-vAODNMHgt7A1xwyg/viewform
+
+
+
 How did you recruit users for your closed test? For example, did you ask friends and family, or use a paid testing provider?
 
 => Yes, I tested my app with my friends and family.
@@ -33,5 +38,6 @@ What changes did you make to your app based on what you learned during your clos
 How did you decide that your app is ready for production?
 => There were no problems during the closed test and the testers were very happy. So I decided that my app is ready for production
 =>> I decided the app was ready for production after conducting closed testing with friends, colleagues, and trusted users. Testers found the app smooth, stable, and easy to use, with no issues reported, confirming it is ready for release.
+
 
 
